@@ -1,5 +1,11 @@
 # fish-posix-source
-Add a posix source to fish
+Add a posix source capabilitiy to fish
+
+e.g.
+
+```
+posix-source .env
+```
 
 ## Installation
 
