@@ -12,5 +12,5 @@ posix-source .env
 We recommend using [fisher](https://github.com/jorgebucaran/fisher) to install **posix-source**.
 
 ```
-fisher bertonha/fish-posix-source
+fisher add bertonha/fish-posix-source
 ```
